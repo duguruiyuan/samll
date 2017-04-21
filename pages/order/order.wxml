@@ -15,3 +15,7 @@
     <text wx:else class="row_b_r">已评价</text>
   </view>
 </view>
+<view class="contact">
+  <contact-button type="default-light" size="125" session-from="小程序加速度手机维修"></contact-button>
+  <image src="../../images/contact.png"></image>
+</view>
